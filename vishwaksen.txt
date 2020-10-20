@@ -2,3 +2,4 @@ I changed this file twice
 The second change
 One line is added
 This is a change
+This is another change that can cause conflict
