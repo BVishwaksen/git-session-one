@@ -3,3 +3,4 @@ The second change
 One line is added
 This is a change
 This might be a conflict line
+This is another change that can cause conflict
