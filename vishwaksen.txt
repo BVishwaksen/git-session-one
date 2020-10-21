@@ -6,3 +6,9 @@ This might be a conflict line
 This is another change that can cause conflict
 This is branch one change
 This is branch-two change
+This is change on branch-one
+This is a stash sentence.
+This is the second stash sentence.
+
+This is the line may not be compiled.
+These changes are dependent on master branch.
